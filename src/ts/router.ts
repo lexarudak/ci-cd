@@ -7,6 +7,8 @@ import ErrorPage from './pages/error-page';
 import PlantPage from './pages/plant-page';
 
 class Router {
+  var a;
+  var b;
   static catalogPage: CatalogPage;
   static cartPage: CartPage;
   static plantPage: PlantPage;
